@@ -2,7 +2,7 @@
 
 Package provides the core data frame implementation for numerical computation
 
-[![Build Status](https://travis-ci.org/chen0040/java-data-frame.svg?branch=master)](https://travis-ci.org/chen0040/java-data-frame) [![Coverage Status](https://coveralls.io/repos/github/chen0040/java-data-frame/badge.svg?branch=master)](https://coveralls.io/github/chen0040/java-data-frame?branch=master) 
+[![Build Status](https://travis-ci.org/kakashimamun/java-data-frame.svg?branch=master)](https://travis-ci.org/kakashimamun/java-data-frame) [![Coverage Status](https://coveralls.io/repos/github/kakashimamun/java-data-frame/badge.svg?branch=master)](https://coveralls.io/github/kakashimamun/java-data-frame?branch=master) 
 
 # Features
 
@@ -18,7 +18,7 @@ Add the following dependency to your POM file:
 
 ```xml
 <dependency>
-  <groupId>com.github.chen0040</groupId>
+  <groupId>com.github.kakashimamun</groupId>
   <artifactId>java-data-frame</artifactId>
   <version>1.0.11</version>
 </dependency>
@@ -188,9 +188,9 @@ Suppose you have a csv file named contraception.csv that has the following file 
 An example of java code to create a data frame from the above CSV file:
 
 ```java
-import com.github.chen0040.data.frame.DataFrame;
-import com.github.chen0040.data.frame.DataQuery;
-import com.github.chen0040.data.utils.StringUtils;
+import com.github.kakashimamun.data.frame.DataFrame;
+import com.github.kakashimamun.data.frame.DataQuery;
+import com.github.kakashimamun.data.utils.StringUtils;
 
 int column_use = 3;
 int column_livch = 4;

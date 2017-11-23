@@ -4,42 +4,42 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.chen0040</groupId>
+    <groupId>com.github.kakashimamun</groupId>
     <artifactId>java-data-frame</artifactId>
     <version>1.0.12</version>
 
     <licenses>
         <license>
             <name>MIT</name>
-            <url>https://github.com/chen0040/java-data-frame/blob/master/LICENSE</url>
+            <url>https://github.com/kakashimamun/java-data-frame/blob/master/LICENSE</url>
             <comments>MIT License</comments>
         </license>
     </licenses>
 
     <developers>
         <developer>
-            <email>xs0040@gmail.com</email>
-            <id>chen0040</id>
-            <name>Xianshun Chen</name>
-            <url>https://github.com/chen0040</url>
+            <email>kakashi.mamun@gmail.com</email>
+            <id>kakashimamun</id>
+            <name>Mamunur Rashid</name>
+            <url>https://github.com/kakashimamun</url>
         </developer>
     </developers>
 
     <scm>
-        <url>https://github.com/chen0040/java-data-frame</url>
-        <connection>scm:git:git://github.com/chen0040/java-data-frame.git</connection>
-        <developerConnection>scm:git:git@github.com:chen0040/java-data-frame.git</developerConnection>
+        <url>https://github.com/kakashimamun/java-data-frame</url>
+        <connection>scm:git:git://github.com/kakashimamun/java-data-frame.git</connection>
+        <developerConnection>scm:git:git@github.com:kakashimamun/java-data-frame.git</developerConnection>
     </scm>
 
     <issueManagement>
-        <url>https://github.com/chen0040/java-data-frame/issues</url>
+        <url>https://github.com/kakashimamun/java-data-frame/issues</url>
         <system>GitHub Issues</system>
     </issueManagement>
 
 
     <name>DataFrame in Java</name>
     <description>Some common patterns of data frame in Java</description>
-    <url>https://github.com/chen0040/java-data-frame</url>
+    <url>https://github.com/kakashimamun/java-data-frame</url>
 
     <distributionManagement>
         <snapshotRepository>
